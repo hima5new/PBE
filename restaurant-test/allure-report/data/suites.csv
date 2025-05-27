@@ -1,0 +1,216 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1458","Retrieve feedback for valid location id with type ""cuisine"" sorted by ""best""","","Tue May 27 16:00:51 IST 2025","passed","Tue May 27 16:00:52 IST 2025","","Retrieve Feedback for Restaurant Locations","Retrieve feedback for valid location id with type ""cuisine"" sorted by ""best""",""
+"","22","Attempt to fetch tables with missing locationId parameter","","Tue May 27 16:01:05 IST 2025","passed","Tue May 27 16:01:05 IST 2025","","Fetch Available Tables for Booking","Attempt to fetch tables with missing locationId parameter",""
+"","22","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","29","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","281","Attempting to retrieve special dish IDs with an invalid restaurant location id","","Tue May 27 16:01:02 IST 2025","passed","Tue May 27 16:01:02 IST 2025","","Verify special dish IDs for a restaurant location","Attempting to retrieve special dish IDs with an invalid restaurant location id",""
+"  As a customer
+  I want to submit and view feedback based on reservation status
+  So that I can share my dining experience","64528","Submit feedback without ratings","","Tue May 27 15:56:33 IST 2025","broken","Tue May 27 15:57:37 IST 2025","","Feedback API Scenarios","Submit feedback without ratings",""
+"","17","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","621","Role assignment upon successful login","","Tue May 27 16:00:56 IST 2025","passed","Tue May 27 16:00:56 IST 2025","","User Signin and Role Assignment","Role assignment upon successful login",""
+"","345","Successfully retrieve the list of popular dishes","","Tue May 27 16:00:54 IST 2025","passed","Tue May 27 16:00:54 IST 2025","","Retrieve list of popular dishes","Successfully retrieve the list of popular dishes",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","878","Verify filtering dishes by dish type","","Tue May 27 16:01:45 IST 2025","passed","Tue May 27 16:01:46 IST 2025","","Dishes API Testing","Verify filtering dishes by dish type",""
+"","718","Validate valid user registration","","Tue May 27 16:00:58 IST 2025","passed","Tue May 27 16:00:58 IST 2025","","User Registration Testing","Validate valid user registration",""
+"","40","Return 400 for valid location but invalid feedback type","","Tue May 27 16:00:53 IST 2025","passed","Tue May 27 16:00:53 IST 2025","","Retrieve Feedback for Restaurant Locations","Return 400 for valid location but invalid feedback type",""
+"","1000","Attempt to cancel a reservation that does not belong to the logged-in user","","Tue May 27 15:54:24 IST 2025","passed","Tue May 27 15:54:25 IST 2025","","Deleting a reservation","Attempt to cancel a reservation that does not belong to the logged-in user",""
+"  Validate table reservation functionality for customers","5395","Validate table reservation with various inputs","","Tue May 27 15:54:00 IST 2025","passed","Tue May 27 15:54:05 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  Validate table reservation functionality for customers","1014","Validate table reservation with various inputs","","Tue May 27 15:54:17 IST 2025","passed","Tue May 27 15:54:18 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","34","Login attempts with different credentials","","Tue May 27 16:00:55 IST 2025","passed","Tue May 27 16:00:55 IST 2025","","User Signin and Role Assignment","Login attempts with different credentials",""
+"","23","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","797","Validate valid user registration","","Tue May 27 16:00:57 IST 2025","passed","Tue May 27 16:00:58 IST 2025","","User Registration Testing","Validate valid user registration",""
+"","49","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","599","Verify retrieving dishes with missing or incomplete endpoints","","Tue May 27 16:01:55 IST 2025","failed","Tue May 27 16:01:55 IST 2025","","Dishes API Testing","Verify retrieving dishes with missing or incomplete endpoints",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","345","Login attempts with different credentials","","Tue May 27 16:00:55 IST 2025","passed","Tue May 27 16:00:55 IST 2025","","User Signin and Role Assignment","Login attempts with different credentials",""
+"","24","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","33","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","28","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","32","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","40","Login attempts with different credentials","","Tue May 27 16:00:55 IST 2025","passed","Tue May 27 16:00:55 IST 2025","","User Signin and Role Assignment","Login attempts with different credentials",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","768","Verify retrieving a dish by ID","","Tue May 27 16:01:48 IST 2025","passed","Tue May 27 16:01:49 IST 2025","","Dishes API Testing","Verify retrieving a dish by ID",""
+"","38","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","21","Fetch reservations with null token and validate error response","","Tue May 27 16:01:04 IST 2025","passed","Tue May 27 16:01:04 IST 2025","","Fetch Reservations List","Fetch reservations with null token and validate error response",""
+"  As a customer
+  I want to submit and view feedback based on reservation status
+  So that I can share my dining experience","8074","Submit feedback when reservation status is In Progress","","Tue May 27 16:03:25 IST 2025","failed","Tue May 27 16:03:33 IST 2025","","Feedback API Scenarios","Submit feedback when reservation status is In Progress",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","580","Verify retrieving dishes with missing or incomplete endpoints","","Tue May 27 16:01:54 IST 2025","failed","Tue May 27 16:01:54 IST 2025","","Dishes API Testing","Verify retrieving dishes with missing or incomplete endpoints",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1438","Verify filtering dishes by dish type","","Tue May 27 16:01:43 IST 2025","passed","Tue May 27 16:01:45 IST 2025","","Dishes API Testing","Verify filtering dishes by dish type",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","619","Verify retrieving dishes with missing or incomplete endpoints","","Tue May 27 16:01:54 IST 2025","failed","Tue May 27 16:01:55 IST 2025","","Dishes API Testing","Verify retrieving dishes with missing or incomplete endpoints",""
+"","39","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","281","Validate valid user registration","","Tue May 27 16:00:59 IST 2025","failed","Tue May 27 16:00:59 IST 2025","","User Registration Testing","Validate valid user registration",""
+"  Validate table reservation functionality for customers","1003","Validate table reservation with various inputs","","Tue May 27 15:54:14 IST 2025","passed","Tue May 27 15:54:15 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"","2014","Attempt to cancel a reservation that does not belong to the logged-in user","","Tue May 27 15:54:22 IST 2025","passed","Tue May 27 15:54:24 IST 2025","","Deleting a reservation","Attempt to cancel a reservation that does not belong to the logged-in user",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","638","Login attempts with different credentials","","Tue May 27 16:00:54 IST 2025","passed","Tue May 27 16:00:55 IST 2025","","User Signin and Role Assignment","Login attempts with different credentials",""
+"","306","Validating locations response","","Tue May 27 16:00:53 IST 2025","passed","Tue May 27 16:00:54 IST 2025","","View Restaurant Location Details","Validating locations response",""
+"  Validate table reservation functionality for customers","1704","Validate table reservation with various inputs","","Tue May 27 15:54:05 IST 2025","passed","Tue May 27 15:54:07 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1943","Verify invalid reservation by a waiter","","Tue May 27 16:01:18 IST 2025","passed","Tue May 27 16:01:20 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1113","Verify invalid reservation by a waiter","","Tue May 27 16:01:28 IST 2025","failed","Tue May 27 16:01:29 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","993","Verify invalid reservation by a waiter","","Tue May 27 16:01:42 IST 2025","passed","Tue May 27 16:01:43 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","31","Login attempts with different credentials","","Tue May 27 16:00:55 IST 2025","passed","Tue May 27 16:00:55 IST 2025","","User Signin and Role Assignment","Login attempts with different credentials",""
+"","821","Validate valid user registration","","Tue May 27 16:00:59 IST 2025","passed","Tue May 27 16:01:00 IST 2025","","User Registration Testing","Validate valid user registration",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1114","Verify invalid reservation by a waiter","","Tue May 27 16:01:30 IST 2025","passed","Tue May 27 16:01:31 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","618","Verify invalid reservation by a waiter","","Tue May 27 16:01:38 IST 2025","broken","Tue May 27 16:01:38 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"","618","Verify fetching a list of short location details is successful","","Tue May 27 16:00:53 IST 2025","passed","Tue May 27 16:00:53 IST 2025","","Location Select Options","Verify fetching a list of short location details is successful",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","574","Role assignment upon successful login","","Tue May 27 16:00:56 IST 2025","passed","Tue May 27 16:00:57 IST 2025","","User Signin and Role Assignment","Role assignment upon successful login",""
+"","23","Validate invalid user registration scenarios","","Tue May 27 16:01:00 IST 2025","passed","Tue May 27 16:01:00 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1316","Verify invalid reservation by a waiter","","Tue May 27 16:01:24 IST 2025","failed","Tue May 27 16:01:26 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  Validate table reservation functionality for customers","608","Validate table reservation for unauthenticated user","","Tue May 27 15:54:21 IST 2025","passed","Tue May 27 15:54:22 IST 2025","","Customer Table Reservation","Validate table reservation for unauthenticated user",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","616","Verify errors for invalid sorting or query parameters","","Tue May 27 16:01:52 IST 2025","passed","Tue May 27 16:01:52 IST 2025","","Dishes API Testing","Verify errors for invalid sorting or query parameters",""
+"  Validate table reservation functionality for customers","1009","Validate table reservation with various inputs","","Tue May 27 15:54:18 IST 2025","passed","Tue May 27 15:54:19 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1020","Verify errors for invalid sorting or query parameters","","Tue May 27 16:01:51 IST 2025","passed","Tue May 27 16:01:52 IST 2025","","Dishes API Testing","Verify errors for invalid sorting or query parameters",""
+"","35","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1151","Verify filtering dishes by dish type","","Tue May 27 16:01:46 IST 2025","passed","Tue May 27 16:01:47 IST 2025","","Dishes API Testing","Verify filtering dishes by dish type",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1122","Verify retrieving dishes by dish type with sorting","","Tue May 27 16:01:57 IST 2025","passed","Tue May 27 16:01:58 IST 2025","","Dishes API Testing","Verify retrieving dishes by dish type with sorting",""
+"  Validate table reservation functionality for customers","873","Validate table reservation with various inputs","","Tue May 27 15:54:10 IST 2025","passed","Tue May 27 15:54:10 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","2137","Verify invalid reservation by a waiter","","Tue May 27 16:01:20 IST 2025","passed","Tue May 27 16:01:22 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1731","Verify invalid reservation by a waiter","","Tue May 27 16:01:31 IST 2025","passed","Tue May 27 16:01:33 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  Validate table reservation functionality for customers","821","Validate table reservation with various inputs","","Tue May 27 15:54:11 IST 2025","passed","Tue May 27 15:54:12 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a customer
+  I want to submit and view feedback based on reservation status
+  So that I can share my dining experience","64242","Submit feedback without reservation ID","","Tue May 27 15:57:37 IST 2025","broken","Tue May 27 15:58:42 IST 2025","","Feedback API Scenarios","Submit feedback without reservation ID",""
+"  Validate table reservation functionality for customers","1022","Validate table reservation with various inputs","","Tue May 27 15:54:13 IST 2025","passed","Tue May 27 15:54:14 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","851","Verify retrieving a dish by ID","","Tue May 27 16:01:49 IST 2025","passed","Tue May 27 16:01:50 IST 2025","","Dishes API Testing","Verify retrieving a dish by ID",""
+"","27","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","24","Validate invalid user registration scenarios","","Tue May 27 16:01:00 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","5936","Verify successful table booking by a waiter","","Tue May 27 16:01:05 IST 2025","failed","Tue May 27 16:01:11 IST 2025","","Table reservation system for waiters","Verify successful table booking by a waiter",""
+"  Validate table reservation functionality for customers","1215","Validate table reservation with various inputs","","Tue May 27 15:54:08 IST 2025","passed","Tue May 27 15:54:10 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a registered user
+  I want to sign in using various credentials
+  So that I can verify login behavior and role assignment","408","Login attempts with different credentials","","Tue May 27 16:00:55 IST 2025","passed","Tue May 27 16:00:56 IST 2025","","User Signin and Role Assignment","Login attempts with different credentials",""
+"  Validate table reservation functionality for customers","10102","Validate table reservation with various inputs","","Tue May 27 15:53:49 IST 2025","passed","Tue May 27 15:53:59 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"","242","Return 404 for invalid location id","","Tue May 27 16:00:53 IST 2025","passed","Tue May 27 16:00:53 IST 2025","","Retrieve Feedback for Restaurant Locations","Return 404 for invalid location id",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1105","Verify retrieving dishes by dish type with sorting","","Tue May 27 16:01:55 IST 2025","passed","Tue May 27 16:01:57 IST 2025","","Dishes API Testing","Verify retrieving dishes by dish type with sorting",""
+"","78","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1008","Verify retrieving dishes by dish type with sorting","","Tue May 27 16:01:58 IST 2025","passed","Tue May 27 16:01:59 IST 2025","","Dishes API Testing","Verify retrieving dishes by dish type with sorting",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1129","Verify errors for invalid sorting or query parameters","","Tue May 27 16:01:50 IST 2025","passed","Tue May 27 16:01:51 IST 2025","","Dishes API Testing","Verify errors for invalid sorting or query parameters",""
+"","291","Validate invalid user registration scenarios","","Tue May 27 16:01:00 IST 2025","passed","Tue May 27 16:01:00 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","606","Fetch available tables successfully without time parameter","","Tue May 27 16:01:05 IST 2025","passed","Tue May 27 16:01:05 IST 2025","","Fetch Available Tables for Booking","Fetch available tables successfully without time parameter",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","6534","Verify successful table booking by a waiter","","Tue May 27 16:01:11 IST 2025","failed","Tue May 27 16:01:18 IST 2025","","Table reservation system for waiters","Verify successful table booking by a waiter",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","604","Verify errors for invalid sorting or query parameters","","Tue May 27 16:01:52 IST 2025","passed","Tue May 27 16:01:53 IST 2025","","Dishes API Testing","Verify errors for invalid sorting or query parameters",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1924","Verify invalid reservation by a waiter","","Tue May 27 16:01:39 IST 2025","passed","Tue May 27 16:01:40 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","620","Verify retrieving dishes with missing or incomplete endpoints","","Tue May 27 16:01:53 IST 2025","failed","Tue May 27 16:01:54 IST 2025","","Dishes API Testing","Verify retrieving dishes with missing or incomplete endpoints",""
+"  Validate table reservation functionality for customers","1016","Validate table reservation with various inputs","","Tue May 27 15:54:19 IST 2025","passed","Tue May 27 15:54:20 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a customer
+  I want to submit and view feedback based on reservation status
+  So that I can share my dining experience","64221","Submit feedback when reservation status is Finished","","Tue May 27 15:55:28 IST 2025","broken","Tue May 27 15:56:33 IST 2025","","Feedback API Scenarios","Submit feedback when reservation status is Finished",""
+"","272","Validate valid user registration","","Tue May 27 16:00:59 IST 2025","failed","Tue May 27 16:00:59 IST 2025","","User Registration Testing","Validate valid user registration",""
+"","24","Attempt to cancel a reservation without being logged in","","Tue May 27 15:54:25 IST 2025","passed","Tue May 27 15:54:25 IST 2025","","Deleting a reservation","Attempt to cancel a reservation without being logged in",""
+"  As a customer
+  I want to submit and view feedback based on reservation status
+  So that I can share my dining experience","64414","Update feedback for finished reservation","","Tue May 27 15:59:46 IST 2025","broken","Tue May 27 16:00:51 IST 2025","","Feedback API Scenarios","Update feedback for finished reservation",""
+"  As a user
+  I want to validate filtering, retrieving dishes, and handling edge cases
+  So that I can ensure the API handles diverse scenarios accurately.","1055","Verify filtering dishes by dish type","","Tue May 27 16:01:47 IST 2025","failed","Tue May 27 16:01:48 IST 2025","","Dishes API Testing","Verify filtering dishes by dish type",""
+"  Validate table reservation functionality for customers","903","Validate table reservation with various inputs","","Tue May 27 15:54:20 IST 2025","passed","Tue May 27 15:54:21 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  Validate table reservation functionality for customers","1507","Validate table reservation with various inputs","","Tue May 27 15:54:07 IST 2025","passed","Tue May 27 15:54:08 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"","675","Validating special dishes response","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:02 IST 2025","","Verify special dish IDs for a restaurant location","Validating special dishes response",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1315","Verify invalid reservation by a waiter","","Tue May 27 16:01:40 IST 2025","passed","Tue May 27 16:01:42 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1820","Verify invalid reservation by a waiter","","Tue May 27 16:01:26 IST 2025","passed","Tue May 27 16:01:28 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"","29","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"","444","Retrieve feedback for valid location id with type ""service"" sorted by ""newest""","","Tue May 27 16:00:52 IST 2025","passed","Tue May 27 16:00:52 IST 2025","","Retrieve Feedback for Restaurant Locations","Retrieve feedback for valid location id with type ""service"" sorted by ""newest""",""
+"","19","Attempt to fetch tables with missing all query parameters","","Tue May 27 16:01:05 IST 2025","passed","Tue May 27 16:01:05 IST 2025","","Fetch Available Tables for Booking","Attempt to fetch tables with missing all query parameters",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1218","Verify invalid reservation by a waiter","","Tue May 27 16:01:29 IST 2025","passed","Tue May 27 16:01:30 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  Validate table reservation functionality for customers","1087","Validate table reservation with various inputs","","Tue May 27 15:54:12 IST 2025","passed","Tue May 27 15:54:13 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"","27","Validate invalid user registration scenarios","","Tue May 27 16:01:01 IST 2025","passed","Tue May 27 16:01:01 IST 2025","","User Registration Testing","Validate invalid user registration scenarios",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1187","Verify invalid reservation by a waiter","","Tue May 27 16:01:35 IST 2025","passed","Tue May 27 16:01:37 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"","746","Fetch available tables successfully with all inputs","","Tue May 27 16:01:04 IST 2025","passed","Tue May 27 16:01:05 IST 2025","","Fetch Available Tables for Booking","Fetch available tables successfully with all inputs",""
+"  Validate table reservation functionality for customers","1632","Validate table reservation with various inputs","","Tue May 27 15:54:15 IST 2025","passed","Tue May 27 15:54:17 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"","1704","Fetch reservations successfully and validate reservation ids","","Tue May 27 16:01:02 IST 2025","passed","Tue May 27 16:01:04 IST 2025","","Fetch Reservations List","Fetch reservations successfully and validate reservation ids",""
+"","31","Attempt to fetch tables with missing guests parameter","","Tue May 27 16:01:05 IST 2025","passed","Tue May 27 16:01:05 IST 2025","","Fetch Available Tables for Booking","Attempt to fetch tables with missing guests parameter",""
+"","193","Validate valid user registration","","Tue May 27 16:00:59 IST 2025","failed","Tue May 27 16:00:59 IST 2025","","User Registration Testing","Validate valid user registration",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","2346","Verify invalid reservation by a waiter","","Tue May 27 16:01:22 IST 2025","passed","Tue May 27 16:01:24 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1361","Verify invalid reservation by a waiter","","Tue May 27 16:01:34 IST 2025","passed","Tue May 27 16:01:35 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"  Validate table reservation functionality for customers","913","Validate table reservation with various inputs","","Tue May 27 15:54:10 IST 2025","passed","Tue May 27 15:54:11 IST 2025","","Customer Table Reservation","Validate table reservation with various inputs",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","554","Verify unauthenticated waiter reservation attempt","","Tue May 27 16:01:43 IST 2025","passed","Tue May 27 16:01:43 IST 2025","","Table reservation system for waiters","Verify unauthenticated waiter reservation attempt",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1256","Verify invalid reservation by a waiter","","Tue May 27 16:01:37 IST 2025","passed","Tue May 27 16:01:38 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""
+"","30","Attempt to fetch tables with missing date parameter","","Tue May 27 16:01:05 IST 2025","passed","Tue May 27 16:01:05 IST 2025","","Fetch Available Tables for Booking","Attempt to fetch tables with missing date parameter",""
+"  As a customer
+  I want to submit and view feedback based on reservation status
+  So that I can share my dining experience","64581","View feedback when reservation is In Progress","","Tue May 27 15:58:42 IST 2025","broken","Tue May 27 15:59:46 IST 2025","","Feedback API Scenarios","View feedback when reservation is In Progress",""
+"  As a waiter
+  I want to make table reservations for customers
+  So that I can assist customers efficiently and handle possible errors","1174","Verify invalid reservation by a waiter","","Tue May 27 16:01:33 IST 2025","failed","Tue May 27 16:01:34 IST 2025","","Table reservation system for waiters","Verify invalid reservation by a waiter",""

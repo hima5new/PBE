@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "date": { "type": "string" },
+    "userInfo": { "type": "string" },
+    "timeSlot": { "type": "string" },
+    "assignedWaiter": { "type": "string" },
+    "id": { "type": "string" },
+    "locationAddress": { "type": "string" },
+    "guestsNumber": { "type": "string" },
+    "assignedWaiterName": { "type": "string" },
+    "tableNumber": { "type": "string" },
+    "status": { "type": "string" }
+  },
+  "required": ["date", "status", "timeSlot", "tableNumber", "id"]
+}

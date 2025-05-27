@@ -1,0 +1,8 @@
+clientType	VISITOR
+customerName	Visitor
+locationId	loc1
+tableNumber	T1
+date	<tomorrow>
+timeFrom	12:30
+timeTo	14:00
+guestsNumber	2

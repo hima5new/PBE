@@ -1,0 +1,33 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "address": {
+        "type": "string"
+      },
+      "totalCapacity": {
+        "type": "integer"
+      },
+      "imageUrl": {
+        "type": "string",
+        "format": "uri"
+      },
+      "rating": {
+        "type": "string",
+        "pattern": "^\\d+\\.\\d+$"
+      },
+      "description": {
+        "type": "string"
+      },
+      "averageOccupancy": {
+        "type": "string",
+        "pattern": "^\\d+%$"
+      },
+      "id": {
+        "type": "string"
+      }
+    },
+    "required": ["address", "totalCapacity", "imageUrl", "rating", "description", "averageOccupancy", "id"]
+  }
+}

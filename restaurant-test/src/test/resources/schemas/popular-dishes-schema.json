@@ -1,0 +1,71 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "name": {
+        "type": "string"
+      },
+      "price": {
+        "type": "string"
+      },
+      "weight": {
+        "type": "string"
+      },
+      "imageUrl": {
+        "type": "string",
+        "format": "uri"
+      },
+      "popular": {
+        "type": "boolean"
+      },
+      "locationId": {
+        "type": "string"
+      },
+      "dishType": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "calories": {
+        "type": "string"
+      },
+      "fats": {
+        "type": "string"
+      },
+      "carbohydrates": {
+        "type": "string"
+      },
+      "proteins": {
+        "type": "string"
+      },
+      "vitamins": {
+        "type": "string"
+      },
+      "available": {
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "price",
+      "weight",
+      "imageUrl",
+      "popular",
+      "locationId",
+      "dishType",
+      "description",
+      "calories",
+      "fats",
+      "carbohydrates",
+      "proteins",
+      "vitamins",
+      "available"
+    ]
+  }
+}

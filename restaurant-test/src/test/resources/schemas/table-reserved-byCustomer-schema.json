@@ -1,0 +1,56 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "locationId": {
+      "type": "string"
+    },
+    "tableNumber": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "timeFrom": {
+      "type": "string",
+      "pattern": "^([01]\\d|2[0-3]):([0-5]\\d)$"
+    },
+    "timeTo": {
+      "type": "string",
+      "pattern": "^([01]\\d|2[0-3]):([0-5]\\d)$"
+    },
+    "guestsNumber": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["RESERVED", "CANCELED", "COMPLETED"]
+    },
+    "waiterEmail": {
+      "type": "string",
+      "format": "email"
+    },
+    "preOrder": {
+      "type": "string"
+    },
+    "feedbackId": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "locationId",
+    "tableNumber",
+    "date",
+    "timeFrom",
+    "timeTo",
+    "guestsNumber",
+    "status",
+    "waiterEmail",
+    "preOrder",
+    "feedbackId"
+  ]
+}
